@@ -1,0 +1,6 @@
+#!/bin/bash
+cd/tmp
+wget htttps://www.tooplate.com/zip-templates/2130_waso_strategy.zip
+apt install unzip -y
+unzip 2130_waso_strategy.zip
+cp -R/2130_waso_strategy.zip
